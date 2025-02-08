@@ -14,8 +14,6 @@ This project was developed during the first semester of my Master's in Computer 
 | Riya Agarwal           | 50609491          |
 
 
-![Highlights ui](https://github.com/user-attachments/assets/0e530dbc-e279-47fe-8c08-9a0bd66b4c65)
-
 Project Phase 2:
 
 Karthik Sharma Madugula:
